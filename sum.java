@@ -1,6 +1,6 @@
 //print the sum of 2 number:
 
-class HelloWorld {
+class sum {
   public static void main(String[] args) {
     int a = 10;
     int b = 25;
